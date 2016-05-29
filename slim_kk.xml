@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <I9100>
+            <Filename> SlimSaber-i9100-4.4.4-20160529.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download SlimSaber build">https://www.androidfilehost.com/?fid=24415232478676754</RomUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit SlimSaber i9100 thread">http://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-slimsaber-i9100-t2350201</XDAUrl>
+	</I9100>
+    </Stable>
+</SlimOTA>

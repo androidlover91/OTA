@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <I9100>
-            <Filename> SlimSaber-i9100-4.4.4-20160529.zip</Filename>
+            <Filename>SlimSaber-i9100-4.4.4-20160529.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
